@@ -1,0 +1,44 @@
+{
+  "projects": [
+    {
+      "imageLink": "https://raw.githubusercontent.com/sam4web/xolcy-template/main/project-preview.png",
+      "name": "xolcy template",
+      "sourceCode": "https://github.com/sam4web/xolcy-template",
+      "livePreview": "https://sam4web.github.io/xolcy-template/"
+    },
+    {
+      "imageLink": "https://raw.githubusercontent.com/sam4web/monst-template/main/project-preview.png",
+      "name": "monst template",
+      "sourceCode": "https://github.com/sam4web/monst-template",
+      "livePreview": "https://sam4web.github.io/monst-template/"
+    },
+    {
+      "imageLink": "https://raw.githubusercontent.com/sam4web/luaz-template/main/project-preview.png",
+      "name": "luaz template",
+      "sourceCode": "https://github.com/sam4web/luaz-template",
+      "livePreview": "https://sam4web.github.io/luaz-template/"
+    },
+    {
+      "imageLink": "https://raw.githubusercontent.com/sam4web/hously-template/main/project-preview.png",
+      "name": "hously template",
+      "sourceCode": "https://github.com/sam4web/hously-template",
+      "livePreview": "https://sam4web.github.io/hously-template/"
+    }
+  ],
+  "skills": [
+    "HTML & CSS",
+    "SCSS",
+    "JavaScript",
+    "Bootstrap",
+    "React",
+    "Python",
+    "Django",
+    "Git"
+  ],
+  "social": [
+    { "icon": "fa-brands fa-facebook", "link": "https://facebook.com" },
+    { "icon": "fa-brands fa-instagram", "link": "https://instagram.com" },
+    { "icon": "fa-brands fa-github", "link": "https://github.com" },
+    { "icon": "fa-brands fa-linkedin-in", "link": "https://linkedin.com/" }
+  ]
+}
