@@ -3,7 +3,7 @@
 ## Overview
 The first iteration of my personal portfolio, serving as a professional showcase of my skills and projects as a Developer.
 
-**Live Link:** [View Live Site](https://v1.sijalmanandhar.com.np)
+**[View Live Site](https://v1.sijalmanandhar.com.np)**
 
 ## Features
 * **Responsive Design:** Mobile-friendly layout.
