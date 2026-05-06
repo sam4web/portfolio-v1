@@ -17,4 +17,4 @@ The first iteration of my personal portfolio, serving as a professional showcase
 
 ## Contact
 * **GitHub:** [@sam4web](https://github.com/sam4web)
-* **Email:** [sijal.m06@gmail.com](mailto:sijal.m06@gmail.com)
+* **Email:** [sijal.m06@gmail.com](mailto:sijal.m06@proton.com)
